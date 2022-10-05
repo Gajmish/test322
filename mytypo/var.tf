@@ -1,2 +1,0 @@
-variable "ami" {}
-variable "type" {}
